@@ -1,0 +1,23 @@
+# Python virtual environments and local packages
+cuda/
+.venv/
+venv/
+env/
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code settings
+.vscode/
+
+# Logs and temp
+*.log
+*.tmp
+
+# OS-specific
+.DS_Store
+Thumbs.db
